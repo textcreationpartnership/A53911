@@ -1,0 +1,480 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London's lamentations: or, some affectionate breathings forth on London's late ruines by fire</title>
+            <author>R. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53911</idno>
+            <idno type="STC">Wing P102</idno>
+            <idno type="STC">ESTC R222712</idno>
+            <idno type="EEBO-CITATION">99833855</idno>
+            <idno type="PROQUEST">99833855</idno>
+            <idno type="VID">38333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38333)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2213:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London's lamentations: or, some affectionate breathings forth on London's late ruines by fire</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Hancock , to be sold by him at his shop over against the church in Broad-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of text: Licensed according to order.".</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38333:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>
+               <hi>LONDONS</hi> LAMENTATIONS: OR, Some affectionate breathings forth on <hi>London's</hi> late Ruines BY FIRE, Begun <hi>Septemb.</hi> 2. 1666. about Two of the Clock in the Morning.</p>
+            <p>WITH Twenty Leſſons to be learned by this ſevere Rod of the Fire.</p>
+            <p>Compoſed in Verſe by <hi>R. P.</hi> a well-wiſher to that famous and ancient City of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Hancock,</hi> to be ſold by him at his Shop over againſt the Church in <hi>Broad-ſtreet.</hi> 1666.</p>
+            <pb facs="tcp:38333:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <pb facs="tcp:38333:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 74 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38333:3"/>
+            <!-- PDF PAGE 75 -->
+            <pb n="1" facs="tcp:38333:3"/>
+            <!-- PDF PAGE 75 -->
+            <head>Some Breathings forth on <hi>London's</hi> late ruines by Fire.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">C</seg>Ome call for ſuch as skilful are to weep:</l>
+               <l>Tears can't exceed, nor ſighs be here too deep;</l>
+               <l>Nor though our heads of waters fountains were,</l>
+               <l>What might exhauſt and draw them dry is here:</l>
+               <l>For of our City ſin an heap hath made,<note place="margin">
+                     <hi>Iſa.</hi> 25.2.</note>
+               </l>
+               <l>Our famous City yea in ruines laid,</l>
+               <l>And that by Fire which alate befel,</l>
+               <l>But ſuch as Stories ſcarce can parallel.</l>
+               <l>Methinks it was ſome ſemblance of that Fire,</l>
+               <l>Which <hi>Sodome</hi> God conſum'd with in his ire.</l>
+               <l>Methinks I am as one even quite diſmay'd;</l>
+               <l>Methinks yet that ſhould not be true that's ſaid.</l>
+               <l>The former Fire was not quenched quite,<note place="margin">Peſtilence.</note>
+               </l>
+               <l>Before another Fire breaks forth with might:</l>
+               <l>The former that did much conſume our men;</l>
+               <l>Another dreadful Fire cometh then,</l>
+               <l>And that conſumes our houſes and our goods,</l>
+               <l>And nothing leaves but rubbiſh where they ſtood:</l>
+               <l>And thus out of one Fire go do we,<note place="margin">
+                     <hi>Ezek.</hi> 15.7.</note>
+               </l>
+               <l>And with another Fire devour'd we be.</l>
+               <l>Oh what diſtreſs<g ref="char:punc">▪</g> Oh what perplexity!</l>
+               <l>What fears and frights ſurpriz'd all ſuddenly!</l>
+               <l>How did all faces gather paleneſs, and</l>
+               <l>All knees wax feeble, each hangs down his hands.</l>
+               <l>Hearts fail for fear, all full of conſternation,</l>
+               <l>As if it was the general conflagration.</l>
+               <l>Men are amaz'd: the Engin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to thoſe flames</l>
+               <l>Are but a ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> nor waters can them tame;</l>
+               <l>But ſtill they rage and roar yea run along</l>
+               <l>With a furious fierceneſe as they firſt begun.</l>
+               <l>What Adamantine <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> could but relent</l>
+               <l>To hear what diſmal cryes and ſhrieks up went;</l>
+               <pb n="2" facs="tcp:38333:4"/>
+               <!-- PDF PAGE 76 -->
+               <l>Such as even pierct the Heavens, yea, and might make</l>
+               <l>The very Earths Foundations for to ſhake.</l>
+               <l>Some cry, My children, Oh are they ſecure?</l>
+               <l>And are none left i'th houſe ſtill are you ſure?</l>
+               <l>Others, my Father, ſome, my Mother cry;</l>
+               <l>Another ſayes, he can't his wife eſpy.</l>
+               <l>One cryes, come help, O let's get out this cheſt;</l>
+               <l>Another cryes, firſt get out this, as beſt;</l>
+               <l>Another cryes, Oh help to ſave my Plate;</l>
+               <l>Another calls, a Cart at any rate;</l>
+               <l>A third, he comes and ſayes, it is too late,</l>
+               <l>You can't for rubbiſh paſs unto the Gate:</l>
+               <l>Oh cryes another, I am quite undone;</l>
+               <l>To help to ſave my goods, I can get none.</l>
+               <l>Thus all are in an hurry, and ſome take</l>
+               <l>From others ſtraits advantage, gain to make.</l>
+               <l>The Judgment is ſo ſore, ſo far extends,</l>
+               <l>That none are able it to comprehend:</l>
+               <l>Somthing thereof at preſent we do ſee,</l>
+               <l>And every day will more appear to be.</l>
+               <l>Our Body Politick's wounded at heart,</l>
+               <l>And all the Members, each do feel the ſmart.</l>
+               <l>The Mother of our <hi>Iſrael</hi> is undone,</l>
+               <l>And all her Daughters languiſh every one.</l>
+               <l>The very Fountain of our Trade's drawn dry,</l>
+               <l>And all her Rivulets exhauſt do lye.</l>
+               <l>Oh what a change a few dayes here have made!</l>
+               <l>How ſoon when theſe things flouriſh do they fade!</l>
+               <l>How ſolitary does that City ſit,<note place="margin">(<hi>Lam.</hi> 1.1.)</note>
+               </l>
+               <l>Which ſo much people had alate in it!</l>
+               <l>But as a Widow ſhe is now become,</l>
+               <l>Her Glory ſtain'd, and all her beauty gone,</l>
+               <l>It is departed, and ſhe's ſo o'rethrown,</l>
+               <l>That where her ſtreets were ſcarce it can be known:</l>
+               <l>Her wayes do mourn, her Gates are ſunk, and ſhe</l>
+               <l>Hath made her dwellers elſewhere ſeek to be.</l>
+               <l>How many lately rich are now made poor?</l>
+               <l>How many empty which alate had ſtore?</l>
+               <pb n="3" facs="tcp:38333:4"/>
+               <!-- PDF PAGE 76 -->
+               <l>How many harbourleſs which houſes had?</l>
+               <l>How many that were joyous now are ſad?</l>
+               <l>How many that to others ſuccour gave,</l>
+               <l>Have need themſelves now ſuccour for to have?</l>
+               <l>How many late at eaſe are now perplext,</l>
+               <l>Waiting what diſmal things may follow next,</l>
+               <l>Fearing leaſt theſe their ſorrows but begin,</l>
+               <l>And are ſtill ſoarer things but uſhering in.</l>
+               <l>Oh <hi>London,</hi> glorious things were ſpoken of thee,</l>
+               <l>But oh what ſad things now reported be!</l>
+               <l>But what do words to ſuch a devaſtation,</l>
+               <l>That does ſo far exceed even all relation?</l>
+               <l>Such as go up and do behold it, ſee</l>
+               <l>Far more than e're they heard it for to be.</l>
+            </lg>
+            <lg>
+               <l>Come now <hi>Jehovahs</hi> works behold, and ſee</l>
+               <l>What deſolations he hath made to be!<note place="margin">(<hi>Pſ.</hi> 46.8.)</note>
+               </l>
+               <l>Such as amaze, and even aſtoniſh; and</l>
+               <l>Theſe made i'th' Mother City of our Land,</l>
+               <l>Yea, that was chief among the Nations that</l>
+               <l>Among the Provinces as Princeſs ſat.</l>
+               <l>But ſee how on a ſudden wondrouſly</l>
+               <l>She is come down, and now in duſt doth lye:</l>
+               <l>The Lord hath brought down them that dwelt on high,</l>
+               <l>The lofty City low hath made to lye;<note place="margin">(<hi>Iſa.</hi> 26.5, 6.)</note>
+               </l>
+               <l>Yea he hath laid it low, even to the ground,</l>
+               <l>And now with very duſt its equal found,</l>
+               <l>So that the foot may now it tread upon,</l>
+               <l>The foot o'th' poor, the ſteps o'th' needy one.</l>
+               <l>Now as the Lord his work hath done, even ſo</l>
+               <l>Our work likewiſe let us now alſo do.</l>
+               <l>Oft warn'd we were before, but we took none;</l>
+               <l>O that by this now warn'd might be each one,</l>
+               <l>And let theſe loſſes not be loſt in vain,</l>
+               <l>Nor let them be but turned into gain;</l>
+               <l>Out of the Eater let there come forth meet.</l>
+               <l>And out o'th ſtrong ſome ſweetneſs let us get.</l>
+               <l>God would us teach by that which he hath done.</l>
+               <l>And ſeverall leſſons learne would have each one;</l>
+               <pb n="4" facs="tcp:38333:5"/>
+               <!-- PDF PAGE 77 -->
+               <l>Some of thoſe leſſons here behold and ſee,</l>
+               <l>And lets be ſure them well take out do we.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> See how we provoke the Lord to wrath,</l>
+               <l>That ſuch a Fire amongſt us kindled hath,</l>
+               <l>And how exceedingly we him incenc't,</l>
+               <l>That by no meanes no ſooner could be quencht.</l>
+               <l>The Fire indeed it was exceeding ſore,</l>
+               <l>But what it ſpake, Gods great diſpleaſure, more.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Let's in theſe deſolations Gods hand ſee,</l>
+               <l>And under it abaſ'd and humble be.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Before this God tremble and feare each one,</l>
+               <l>Who makes ſuch diſmal deſolation!</l>
+               <l>And in thy works how terrible art thou,</l>
+               <l>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y unto God, as we have ſeen thee now!</l>
+               <l>Oh of thine anger who the power doth know!</l>
+               <l>According to thy feare thy wrath is ſo.<note place="margin">
+                     <hi>Pſa.</hi> 66 3, 5. <hi>Pſal.</hi> 90.11. <hi>Pſal.</hi> 76.7.</note>
+               </l>
+               <l>O thou! even thou art to be feared, and</l>
+               <l>Who when th'art angry in thy ſight can ſtand?</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> In all that's done the Lord let's juſtify,</l>
+               <l>For heavier things by farr our ſins did cry.</l>
+               <l>Leſſe than our ſins deſerv'd puniſht are we;</l>
+               <l>Our houſes, not our ſelves, conſumed be.</l>
+               <l>The City's burnt, the Suburbs are not ſo,</l>
+               <l>The Daughters yet do ſtand, though Mother low.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Let none no more boaſt of to morrow day,</l>
+               <l>For what a day may bring forth who can ſay?<note place="margin">
+                     <hi>Prov.</hi> 27.1.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> See by theſe deſolations what is ſin,</l>
+               <l>Which them did carry on, and them begin.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> How vaine and how uncertaine learne alſo,</l>
+               <l>All things are that we here poſſeſs below.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> See no continuing City we have here;</l>
+               <l>One therefore that's to come let's ſeek elſewhere,<note place="margin">
+                     <hi>Heb.</hi> 13.14. <hi>Chap.</hi> 11.10.</note>
+               </l>
+               <l>A City which foundations hath, and's ſaid</l>
+               <l>To be by God himſelfe both built and made.</l>
+            </lg>
+            <lg>
+               <l>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> Learn for your ſelves to lay up treaſures there,</l>
+               <l>Where neither loſs nor deſolations are.</l>
+               <l>Let God himſelf, Chriſt, Grace, our treaſures be,</l>
+               <l>And then our treaſures ſafe in Heaven ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e we.</l>
+            </lg>
+            <pb n="5" facs="tcp:38333:5"/>
+            <!-- PDF PAGE 77 -->
+            <lg>
+               <l>As a forerunner, by this Fire we <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+               </l>
+               <l>May of that conflagration minded be,</l>
+               <l>When th'earth and all things that therein be</l>
+               <l>Shall ſuddenly be burnt up utterly.<note place="margin">3 <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ct</hi> 3 10.</note>
+               </l>
+               <l>What manner then of perſons ought we be</l>
+               <l>In all holy converſe and pietie;</l>
+               <l>That when the Heavens and Earth diſſolv'd ſhall be</l>
+               <l>New heavens and new earth expect may we;</l>
+               <l>And let our care, looking for ſuch things, be</l>
+               <l>Of him in peace without ſpot found to be.</l>
+            </lg>
+            <lg>
+               <l>That <hi>London</hi> is not ſpared, let all then ſee <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+               </l>
+               <l>Impartial in his Judgments God to be.</l>
+            </lg>
+            <lg>
+               <l>And <hi>London</hi> not eſcaping, that in ſin <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+               </l>
+               <l>None that goe on eſcape ſhall puniſhing.</l>
+            </lg>
+            <lg>
+               <l>Our City, houſes, and eſtates lie low,<milestone type="tcpmilestone" unit="unspecified" n="13"/>
+               </l>
+               <l>And now our hearts let them be low alſo;</l>
+            </lg>
+            <lg>
+               <l>Yea, let our ſins and luſts be brought down low,<milestone type="tcpmilestone" unit="unspecified" n="14"/>
+               </l>
+               <l>That have our City brought for to be ſo.</l>
+            </lg>
+            <lg>
+               <l>Mens works even with the duſt we level'd ſee:<milestone type="tcpmilestone" unit="unspecified" n="15"/>
+               </l>
+               <l>The devils works deſtroy'd let alſo be;</l>
+               <l>Let them alſo come down, no longer ſtand,</l>
+               <l>Which threaten further ruine to our land.</l>
+            </lg>
+            <lg>
+               <l>This Fire though ſo fierce, yet quencht we ſee; <milestone type="tcpmilestone" unit="unspecified" n="16"/>
+               </l>
+               <l>O dread the Fire that never quencht ſhall be!</l>
+               <l>But is eternal, where all caſt ſhall be</l>
+               <l>That ſtill goe on to doe iniquity.<note place="margin">
+                     <hi>Mat.</hi> 13.40.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe deſolations ſo behold doe we,<milestone type="tcpmilestone" unit="unspecified" n="17"/>
+               </l>
+               <l>As yet we pity thoſe on whom they be,</l>
+               <l>And ſo as with their tears a part we bear,</l>
+               <l>And ſee that we for them lift up a prayer;</l>
+               <l>Yea, ſo their deſolations let us ſee,</l>
+               <l>That ſuccor and reliefe afford them we.</l>
+            </lg>
+            <lg>
+               <l>With what thou haſt doe good without delay,<milestone type="tcpmilestone" unit="unspecified" n="18"/>
+               </l>
+               <l>For all thou haſt may ſoon be ſwept away.</l>
+            </lg>
+            <lg>
+               <l>God for our houſe and portion let's aſſure,<milestone type="tcpmilestone" unit="unspecified" n="19"/>
+               </l>
+               <l>And then our houſe and portion ſhall indure.</l>
+               <l>Let all our ſprings i'th' Fountaine be, and we</l>
+               <l>When brooks and ciſterns faile refreſht ſhall be.</l>
+            </lg>
+            <pb n="6" facs="tcp:38333:6"/>
+            <!-- PDF PAGE 78 -->
+            <lg>
+               <head>The main uſe.</head>
+               <l>Let by this Fire be purg'd iniquity,</l>
+               <l>And ſin to take away, the fruit let be.</l>
+               <l>Let not the Lord ſo ſorely ſmite in vaine;</l>
+               <l>But now forthwith to him let's turne againe,</l>
+               <l>From whom we have revolted, and amend,</l>
+               <l>Or certain ruine us will next attend.</l>
+               <l>Let not our ſins a ſnare ſtill to us be,</l>
+               <l>Except we meane all to conſumed be.</l>
+               <l>Theſe things are ſad, but if in ſin we ſhall</l>
+               <l>Perſiſt, yet heavier things will on us fall;</l>
+               <l>And this will be to ſin with a high hand,</l>
+               <l>And on ſuch God will ſet a heavy brand,</l>
+               <l>As once on <hi>Ahaz,</hi> this is he or ſhe</l>
+               <l>That ſtill did add to their iniquity.</l>
+            </lg>
+            <lg>
+               <head>To thoſe in the Suburbs and others yet eſcaped</head>
+               <l>You that are neare the City, and yet ſpar'd,</l>
+               <l>And with what others ruin'd were are ſcar'd,</l>
+               <l>Make others caſe your own, to them be kind,</l>
+               <l>Or judgment without mercy you will find;</l>
+               <l>Do not affliction to th' afflicted add,</l>
+               <l>Poor hearts ſo heavy doe not make more ſad;</l>
+               <l>Than which I know no more provoking thing,</l>
+               <l>Nor likelyer heavier things on us to bring.</l>
+               <l>Doe not your ſelves leſs ſinners think to be</l>
+               <l>Than thoſe whom now ſo deſolate you ſee.</l>
+               <l>Be warn'd, with ſpeed repent, or be you ſure,</l>
+               <l>Your ſins will heavier things to you procure;</l>
+               <l>And though you have eſcapt the Fire paſt,</l>
+               <l>Into a far worſe Fire they'l you caſt.</l>
+            </lg>
+            <lg>
+               <head>Concluſion.</head>
+               <l>Lord ſanctified let this ſad ſtroak be,</l>
+               <l>And by it every one let's better'd be;</l>
+               <l>That we repenting, thou maiſt not goe on,</l>
+               <l>To make an utter devaſtation.</l>
+            </lg>
+            <closer>Amen, Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Licenſed according to Order.</p>
+            <pb facs="tcp:38333:6"/>
+            <!-- PDF PAGE 78 -->
+         </div>
+      </back>
+   </text>
+</TEI>
